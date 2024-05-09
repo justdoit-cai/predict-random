@@ -1,5 +1,5 @@
 /**
- * java版本：根据一个nextLong()的值获取下一个nextLong()的值
+ * java版本：根据一个nextDouble()的值获取下一个nextDouble()的值
  */
 import java.util.Random;
 public class Demo01 {
